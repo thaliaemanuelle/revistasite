@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revistas Ingleses</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Revistas Ingleses</h1>
+    </header>
+    <main>
+        <section class="revistas">
+            <h2>Revistas de Ciencia</h2>
+            <ul>
+                <li><a href="https://www.nature.com/">Nature</a></li>
+                <li><a href="https://www.sciencemag.org/">Science</a></li>
+                <li><a href="https://www.cell.com/">Cell</a></li>
+            </ul>
+        </section>
+        <section class="revistas">
+            <h2>Revistas de Tecnología</h2>
+            <ul>
+                <li><a href="https://www.technologyreview.com/">MIT Technology Review</a></li>
+                <li><a href="https://spectrum.ieee.org/">IEEE Spectrum</a></li>
+                <li><a href="https://www.wired.com/">Wired</a></li>
+            </ul>
+        </section>
+        <section class="revistas">
+            <h2>Revistas de Cultura</h2>
+            <ul>
+                <li><a href="https://www.theparisreview.org/">The Paris Review</a></li>
+                <li><a href="https://www.newyorker.com/">The New Yorker</a></li>
+                <li><a href="https://www.theguardian.com/books/the-guardian-review">The Guardian Review</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2022 Revistas Ingleses. Todos los derechos reservados.</p
